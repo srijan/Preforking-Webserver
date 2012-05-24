@@ -1,0 +1,2 @@
+This repository contains a simple preforking webserver that I made for Network Programming course assignment at college.
+It just returns some dummy HTML for every request.
